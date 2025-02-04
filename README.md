@@ -1,7 +1,7 @@
 # 💫About Me :
-❤️ I am learning C, Go, Swift and others
-🥺 I am sleepy, lazy, and seriously unproductive
-🗣️ I hate Rust, Python, Java
+❤️ I am learning C, Go, Swift and others\
+🥺 I am sleepy, lazy, and seriously unproductive\
+🗣️ I hate Rust, Python, Java\
 ✍️ I don't use github much and also meow
 
 # 💻Tech Stack
