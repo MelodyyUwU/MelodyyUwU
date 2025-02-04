@@ -22,6 +22,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chorwacjen&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chorwacjen&theme=radical&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆GitHub Trophies
