@@ -32,6 +32,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [why i do not blog as often](https://melodyuwu.bearblog.dev/why-i-do-not-blog-as-often/)
+- [Tiny Socials](https://melodyuwu.bearblog.dev/tiny-socials/)
+- [another change of heart &lpar;and design, too&rpar;](https://melodyuwu.bearblog.dev/another-change-of-heart-and-design-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💰You can help me by Donating
