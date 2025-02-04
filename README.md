@@ -7,9 +7,10 @@
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Chorwacjen&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chorwacjen&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Chorwacjen&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chorwacjen&theme=radical&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Chorwacjen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## 🎶Spotify Tracking
