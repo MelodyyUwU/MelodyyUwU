@@ -35,12 +35,12 @@ No activity tracked
 ## 🎶Spotify Tracking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&redirect=true)
 
-## Blog posts
+## 📝Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [why i do not blog as often](https://melodyuwu.bearblog.dev/why-i-do-not-blog-as-often/)
 - [Tiny Socials](https://melodyuwu.bearblog.dev/tiny-socials/)
 - [another change of heart &lpar;and design, too&rpar;](https://melodyuwu.bearblog.dev/another-change-of-heart-and-design-too/)
 <!-- BLOG-POST-LIST:END -->
 
-## 💰You can help me by Donating
+## 💰Donate to Me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cutiemelob) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/melodyuw) 
