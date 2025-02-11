@@ -34,6 +34,3 @@ Markdown   44 mins         █████████████████�
 
 ## 🎶Spotify Tracking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&redirect=true)
-
-## 💰Donate to Me
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cutiemelob) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/melodyuw) 
