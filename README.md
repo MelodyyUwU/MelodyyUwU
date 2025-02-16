@@ -23,12 +23,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chorwacjen&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
 <!--START_SECTION:waka-->
 
-```txt
-Dart             2 hrs           ████████████████░░░░░░░░░   63.74 %
-YAML             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-HTML             15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Markdown         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-GitIgnore file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+```rust
+From: 08 February 2025 - To: 15 February 2025
+
+Dart             2 hrs           >>>>>>>>>>>>>>>>---------   63.74 %
+YAML             16 mins         >>-----------------------   08.56 %
+HTML             15 mins         >>-----------------------   08.36 %
+Markdown         13 mins         >>-----------------------   07.27 %
+GitIgnore file   9 mins          >------------------------   04.86 %
 ```
 
 <!--END_SECTION:waka-->
