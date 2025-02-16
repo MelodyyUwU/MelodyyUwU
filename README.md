@@ -26,11 +26,14 @@
 ```rust
 From: 08 February 2025 - To: 15 February 2025
 
+Total Time: 3 hrs 8 mins
+
 Dart             2 hrs           >>>>>>>>>>>>>>>>---------   63.74 %
-YAML             16 mins         >>-----------------------   08.56 %
 HTML             15 mins         >>-----------------------   08.36 %
 Markdown         13 mins         >>-----------------------   07.27 %
 GitIgnore file   9 mins          >------------------------   04.86 %
+XML              6 mins          >------------------------   03.67 %
+CSS              5 mins          >------------------------   02.72 %
 ```
 
 <!--END_SECTION:waka-->
