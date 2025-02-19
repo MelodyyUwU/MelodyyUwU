@@ -24,15 +24,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Total Time: 3 hrs 8 mins
+Total Time: 2 hrs 50 mins
 
-Dart             2 hrs           >>>>>>>>>>>>>>>>---------   63.74 %
-HTML             15 mins         >>-----------------------   08.36 %
-Markdown         13 mins         >>-----------------------   07.27 %
-GitIgnore file   9 mins          >------------------------   04.86 %
-CSS              5 mins          >------------------------   02.72 %
+Dart             2 hrs           >>>>>>>>>>>>>>>>>>-------   70.55 %
+Markdown         13 mins         >>-----------------------   08.04 %
+GitIgnore file   9 mins          >------------------------   05.37 %
+CSS              2 mins          -------------------------   01.58 %
+IDEA_MODULE      0 secs          -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
