@@ -19,8 +19,8 @@
 </div>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Chorwacjen&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chorwacjen&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MelodyyUwU&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyyUwU&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=false&include_all_commits=true&count_private=true)
 <!--START_SECTION:waka-->
 
 ```rust
@@ -38,7 +38,7 @@ Kotlin           0 secs          -------------------------   00.59 %
 <!--END_SECTION:waka-->
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Chorwacjen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=MelodyyUwUtheme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎶Spotify Tracking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&redirect=true)
