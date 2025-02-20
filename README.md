@@ -38,7 +38,7 @@ Kotlin           0 secs          -------------------------   00.59 %
 <!--END_SECTION:waka-->
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=MelodyyUwUtheme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=MelodyyUwU&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎶Spotify Tracking
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3126epu47c6cs3sjl4d2tfvdeeye&redirect=true)
