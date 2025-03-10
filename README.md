@@ -24,16 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Total Time: 2 hrs 34 mins
+Total Time: 1 hr 18 mins
 
-C          1 hr 17 mins    >>>>>>>>>>>>>------------   50.40 %
-Dart       1 hr 8 mins     >>>>>>>>>>>--------------   44.68 %
-Markdown   2 mins          -------------------------   01.65 %
-Go         2 mins          -------------------------   01.60 %
-Python     1 min           -------------------------   01.04 %
-Lua        0 secs          -------------------------   00.19 %
+C     1 hr 17 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.62 %
+Lua   0 secs          -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
